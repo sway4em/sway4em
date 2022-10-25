@@ -12,7 +12,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
   
  
-![Contribution Snake](https://raw.githubusercontent.com/sway4em/sway4em/output/github-snake-dark.svg#gh-dark-mode-only)![Contribution Snake](https://raw.githubusercontent.com/sway4em/sway4em/output/github-snake-light.svg#gh-light-mode-only)
+![Contribution Snake](https://raw.githubusercontent.com/sway4em/sway4em/output/github-snake-dark.svg#gh-dark-mode-only)
+![Contribution Snake](https://raw.githubusercontent.com/sway4em/sway4em/output/github-snake-light.svg#gh-light-mode-only)
   
 ### 🛠️ Tools & Technologies
 <div style="display: flex;">
