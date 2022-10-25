@@ -22,5 +22,5 @@
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="tensorflow" />
 </a>
   
-  ![Contribution Snake](https://github.com/sway4em/sway4em/blob/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://github.com/sway4em/sway4em/blob/output/github-contribution-grid-snake-dark.svg)
 
