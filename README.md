@@ -13,7 +13,7 @@
   
  
 ![Contribution Snake](https://github.com/sway4em/sway4em/blob/output/github-contribution-grid-snake-dark.svg)
-![Contribution Snake](https://raw.githubusercontent.com/sway4em/sway4em/output/github-snake-light.svg#gh-light-mode-only)
+![Contribution Snake](https://github.com/sway4em/sway4em/blob/output/github-contribution-grid-snake-light.svg)
 
 ### 🛠️ Tools & Technologies
 <div style="display: flex;">
