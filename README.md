@@ -22,5 +22,4 @@
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="tensorflow" />
 </a>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![Contribution Snake](https://raw.githubusercontent.com/sway4em/sway4em/output/github-snake-dark.svg#gh-dark-mode-only)![Contribution Snake](https://raw.githubusercontent.com/sway4em/sway4em/output/github-snake-light.svg#gh-light-mode-only)
