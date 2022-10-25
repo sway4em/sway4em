@@ -11,9 +11,6 @@
   <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
   
-
-![Contribution Snake](https://github.com/sway4em/sway4em/blob/output/github-contribution-grid-snake-light.svg)
-
 ### 🛠️ Tools & Technologies
 <div style="display: flex;">
   <a href="https://www.getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
@@ -24,4 +21,6 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="tensorflow" />
 </a>
+  
+  ![Contribution Snake](https://github.com/sway4em/sway4em/blob/output/github-contribution-grid-snake-dark.svg)
 
