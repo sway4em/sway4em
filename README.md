@@ -1,6 +1,3 @@
-<head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</head>
 ## 💻 My Tech Stack
 ### 🛠️ Languages
 <div style="display: flex;">
@@ -22,4 +19,3 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="tensorflow" />
 </a>
-  <i class="devicon-flask-original"></i>
