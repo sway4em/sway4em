@@ -1,3 +1,5 @@
+# Hi, I'm Swayam <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30">
+
 ## 💻 My Tech Stack
 ### 🛠️ Languages
 <div style="display: flex;">
