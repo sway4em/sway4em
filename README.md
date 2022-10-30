@@ -6,7 +6,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sway4em&count_private=true&theme=dark" />
 </a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhinandanwadwa&theme=radical)](https://git.io/streak-stats)
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=sway4em&theme=radical)](https://git.io/streak-stats"></a>
 
 
 ## 💻 My Tech Stack
