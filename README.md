@@ -1,4 +1,5 @@
 # Hi, I'm Swayam <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30">
+### Hi my name is Swayam Chidrawar, and I am a Computer Science freshman at Cal Poly San Luis Obispo 🐎
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sway4em&count_private=true&show_icons=true&theme=dark" />
 </a>
