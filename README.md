@@ -1,5 +1,5 @@
 # Hi, I'm Swayam <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30">
-### Hi my name is Swayam Chidrawar, and I am a Computer Science freshman at Cal Poly San Luis Obispo 🐎
+### Hi my name is Swayam Chidrawar, and I am a Computer Science student at Cal Poly San Luis Obispo 🐎
 
 ## 💻 My Tech Stack
 ### 🛠️ Languages
